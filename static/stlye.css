@@ -1,0 +1,180 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, sans-serif;
+}
+
+body{
+    background:#f4f7fb;
+    color:#333;
+}
+
+header{
+    background:#0f172a;
+    color:white;
+    text-align:center;
+    padding:40px;
+}
+
+nav{
+    background:#1e293b;
+    padding:15px;
+    text-align:center;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:0 20px;
+    font-weight:bold;
+}
+
+nav a:hover{
+    color:#38bdf8;
+}
+
+.hero{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:50px;
+    padding:60px;
+}
+
+.hero img{
+    width:220px;
+    height:220px;
+    border-radius:50%;
+    object-fit:cover;
+    border:5px solid #2563eb;
+    box-shadow:0 5px 20px rgba(0,0,0,0.2);
+}
+
+.hero-text{
+    max-width:550px;
+}
+
+.hero-text h2{
+    font-size:40px;
+    margin-bottom:15px;
+}
+
+.hero-text p{
+    font-size:18px;
+    line-height:1.6;
+}
+
+.btn{
+    display:inline-block;
+    margin-top:20px;
+    padding:12px 30px;
+    background:#2563eb;
+    color:white;
+    text-decoration:none;
+    border-radius:8px;
+}
+
+.btn:hover{
+    background:#1d4ed8;
+}
+
+footer{
+    margin-top:50px;
+    background:#0f172a;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+.skills{
+    text-align:center;
+    padding:50px;
+}
+
+.skills h2{
+    margin-bottom:20px;
+}
+
+.skills ul{
+    list-style:none;
+}
+
+.skills li{
+    background:#2563eb;
+    color:white;
+    margin:10px auto;
+    padding:12px;
+    width:250px;
+    border-radius:8px;
+}
+.projects{
+    display:flex;
+    justify-content:center;
+    gap:25px;
+    padding:50px;
+    flex-wrap:wrap;
+}
+
+.card{
+    background:white;
+    width:280px;
+    padding:20px;
+    border-radius:12px;
+    box-shadow:0 4px 10px rgba(0,0,0,0.15);
+    text-align:center;
+}
+
+.card h3{
+    color:#2563eb;
+    margin-bottom:10px;
+}
+
+.card:hover{
+    transform:translateY(-8px);
+    transition:0.3s;
+}
+.certifications{
+    text-align:center;
+    padding:50px;
+}
+
+.certifications h2{
+    margin-bottom:20px;
+}
+.progress-section{
+    padding:50px;
+    width:70%;
+    margin:auto;
+}
+
+.skill{
+    margin:20px 0;
+}
+
+.bar{
+    width:100%;
+    height:20px;
+    background:#ddd;
+    border-radius:20px;
+}
+
+.python{
+    width:80%;
+    height:20px;
+    background:#2563eb;
+    border-radius:20px;
+}
+
+.csharp{
+    width:70%;
+    height:20px;
+    background:#2563eb;
+    border-radius:20px;
+}
+
+.ba{
+    width:85%;
+    height:20px;
+    background:#2563eb;
+    border-radius:20px;
+}
