@@ -197,3 +197,7 @@ footer{
 .hero div {
     flex: 1;
 }
+.profile-img {
+    width: 250px;
+    height: auto;
+}
