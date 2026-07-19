@@ -1,15 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Projects</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
-</head>
-
-<body>
+    <body>
 
 <header>
-    <h1>My Projects</h1>
-</header>
+    <h1>Simthandile Alicia Hulana</h1>
+    <p>ICT Business Analysis Student | Future Business Analyst</p>
+<header>
 
 <nav>
     <a href="/">Home</a>
@@ -18,28 +15,69 @@
     <a href="/contact">Contact</a>
 </nav>
 
-<section class="projects">
+<section class="hero"> 
+    <img src="{{ url_for('static', filename='image/profile.jpeg') }}" alt="Profile Picture" class="profile-img">
+    <div>
+        <h2>Hello, I'm Simthandile!</h2>
 
-    <div class="card">
-        <h3>Portfolio Website</h3>
-        <p>A personal portfolio built using Flask, HTML, and CSS.</p>
+        <p>
+            I am an ICT Business Analysis student at Durban University of Technology,
+            passionate about Business Analysis, Software Development,
+            Python, C#, and Cybersecurity.
+
+        <a class="btn" href="/projects">View My Projects</a>
     </div>
-
-    <div class="card">
-        <h3>ClassSwap</h3>
-        <p>A desktop application project developed for managing class swaps.</p>
-    </div>
-
-    <div class="card">
-        <h3>FutureStep</h3>
-        <p>A mobile app concept designed to help students connect with career opportunities.</p>
-    </div>
-
 </section>
 
 <footer>
     <p>© 2026 Simthandile Alicia Hulana</p>
 </footer>
+<section class="skills">
 
-</body>
-</html>
+    <h2>My Skills</h2>
+
+    <ul>
+        <li>Business Analysis</li>
+        <li>Python Programming</li>
+        <li>C# Programming</li>
+        <li>HTML & CSS</li>
+        <li>Flask</li>
+        <li>Cybersecurity</li>
+    </ul>
+
+</section>
+<a href="{{ url_for('static', filename='files/Simthandile_Hulana_CV.pdf')}}"
+class="btn"downloads>
+    Download CV
+</a>
+<section class="progress-section">
+
+    <h2>Professional Skills</h2>
+
+    <div class="skill">
+        <p>Python</p>
+        <div class="bar">
+            <div class="python"></div>
+        </div>
+    </div>
+
+    <div class="skill">
+        <p>C#</p>
+        <div class="bar">
+            <div class="csharp"></div>
+        </div>
+    </div>
+
+    <div class="skill">
+        <p>Business Analysis</p>
+        <div class="bar">
+            <div class="ba"></div>
+        </div>
+    </div>
+
+</section>
+
+
+
+            
+        
