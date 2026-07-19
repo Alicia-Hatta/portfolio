@@ -281,3 +281,14 @@ nav a{
 .project-card h3{
     color:#0a66c2;
 }
+.about{
+    padding:60px;
+    text-align:center;
+}
+
+.about p{
+    max-width:800px;
+    margin:auto;
+    font-size:18px;
+    line-height:1.8;
+}
