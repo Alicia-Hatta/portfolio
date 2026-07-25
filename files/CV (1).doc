@@ -1,0 +1,43 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"></head><body><div class="page" id="cvContent">
+    <div class="inner">
+      <div class="name" id="fullName" contenteditable="false">Simthandile HULANA</div>
+      <div class="subtitle" id="subtitle" contenteditable="true"></div>
+      <div class="contact" id="contactInfo" contenteditable="false">0699528462 | simthandilehulana@icloud.com | KwaZulu-Natal</div>
+
+      <div class="hr"></div>
+
+      <!-- Professional Summary -->
+      <h2 class="section">Professional Summary</h2>
+      <div id="profileSummary" contenteditable="true">A motivated ICT Business Analysis student skilled in requirement gathering, process analysis, and stakeholder communication. Currently working towards achieving an 80–90% academic average across ICT modules. I combine analytical thinking with technical capabilities in Microsoft Excel, SQL, and C# programming to deliver practical solutions.</div>
+
+      <div class="hr"></div>
+
+      <!-- Education -->
+      <h2 class="section">Education</h2>
+      <div id="educationBlocks" contenteditable="false"><b>Durban University of Technology</b><br>Diploma in ICT Business Analysis (First Year)<p><b>DRC SENIOR SECONDARY</b> | 2025</p><div class="horizontal-grid"><span><strong>Accounting</strong><span class="subject-sep">|</span>79</span><span class="subject-divider">|</span><span><strong>Mathematics</strong><span class="subject-sep">|</span>49</span><span class="subject-divider">|</span><span><strong>Business Studies</strong><span class="subject-sep">|</span>70</span><span class="subject-divider">|</span><span><strong>Economics</strong><span class="subject-sep">|</span>75</span></div></div>
+
+      <div class="hr"></div>
+
+      <!-- Skills & Abilities -->
+      <h2 class="section">Skills &amp; Abilities</h2>
+      <div class="skills-container" id="skills" contenteditable="false"><div class="skill-item"><div class="skills-heading">Technical Skills</div><span>• <strong>Business Requirements Analysis</strong>: I applied requirement gathering, process analysis, and stakeholder communication techniques during coursework to document business requirements and recommend process improvements. This directly supports the responsibilities of gathering and documenting business requirements and analysing business processes outlined in the position.</span> <span>• <strong>Data Analysis with Excel</strong>: I used Microsoft Excel to organise and analyse data for academic assignments and presentations, creating reports and documentation that align with the role's responsibilities. I am consistently working towards achieving an 80–90% academic average, demonstrating my analytical rigour.</span> <span>• <strong>Technical Problem-Solving</strong>: I developed console applications using C# that demonstrated variables, loops, methods, and object-oriented programming concepts, then tested and debugged programmes to improve functionality and performance. This experience supports the role's requirement for strong problem-solving skills and willingness to learn business analysis tools and methodologies.</span></div><div class="skill-item"><div class="skills-heading">Soft Skills</div><span>• <strong>Stakeholder Communication</strong>: I worked effectively in group projects, delivered presentations, and applied stakeholder communication during coursework to complete business analysis assignments. This capability directly supports the position's requirement for communicating with stakeholders and creating reports and documentation.</span> <span>• <strong>Analytical Thinking</strong>: I solved complex academic case studies by identifying business problems and proposing practical technology-based solutions, analysing business problems during coursework. This approach aligns with the role's emphasis on strong analytical skills for supporting process improvement projects.</span> <span>• <strong>Collaborative Teamwork</strong>: I collaborated with classmates to complete software development and business analysis assignments within deadlines, working both independently and in teams. I balanced multiple modules while consistently meeting submission deadlines, demonstrating my ability to contribute effectively in team environments required for this position.</span></div></div>
+    </div>
+  </div><div class="page" id="cvContent2">
+    <div class="inner">
+      <!-- Achievements & Awards -->
+      <h2 class="section">Achievements &amp; Awards</h2>
+      <div id="achievements" contenteditable="true">• Completed Semester 1 ICT modules through Cisco Networking Academy coursework. Earned Credly digital badges as course completion badges.<br><br>• Maintain consistent academic performance in Diploma in ICT: Business Analysis program at Durban University of Technology. Working towards achieving an 80–90% academic average.<br><br>• Participate as a Cisco Networking Academy learner while pursuing diploma studies. Building a professional technology portfolio.<br><br>• Develop active LinkedIn profile as part of professional development activities. Engage in continuous self-learning through online technology courses.<br><br>• Study Business Analysis and Business Information Systems modules in diploma program. Study Application Development using C# programming language.<br><br>• Complete Financial Accounting coursework as part of ICT diploma requirements. Study Law of Life module within the program.</div>
+
+      <!-- Projects -->
+      <h2 class="section">Projects</h2>
+      <div id="projects" contenteditable="true">• Business Analysis and Solution Design I analysed business problems and proposed practical technology-based solutions to address organizational challenges. I documented business requirements and recommended process improvements to enhance operational efficiency.<br><br>• C# Console Application Development I developed console applications using variables, loops, methods, arrays, and object-oriented programming principles. I tested and debugged programs to improve functionality and performance.<br><br>• Information Systems Evaluation and Reporting I evaluated information systems used within organisations to assess their effectiveness and alignment with business needs. I produced reports and presentations on digital business solutions.</div>
+
+      <!-- Work Experience -->
+      <h2 class="section">Work Experience</h2>
+      <div id="workExperience" contenteditable="false">• Academic Projects<br>• * Worked both independently and in teams to complete software development and business analysis assignments.<br>• * Conducted research, prepared reports, and delivered presentations.<br>• * Applied analytical thinking and problem-solving to practical case studies.</div>
+
+      <!-- Certifications -->
+      <h2 class="section">Certifications</h2>
+      <div id="certifications" contenteditable="false">• * Cisco Networking Academy Certificates<br>• * Cisco Networking Academy Credly Badges<br>• * Networking Basics<br>• * Introduction to Cybersecurity<br>• * Junior Cybersecurity Analyst</div>
+    </div>
+  </div></body></html>
